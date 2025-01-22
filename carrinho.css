@@ -6,7 +6,7 @@
 }
 
 body {
-    background-color: #f4f4f4;
+    background-color: #adadad;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -112,7 +112,7 @@ h1 {
 }
 
 .checkout-btn {
-    background-color: #27ae60;
+    background-color: #219150;
     color: #fff;
     padding: 10px 20px;
     font-size: 16px;
